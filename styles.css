@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    justify-content:space-around;
+    border: dotted green;
+    }
+    .parent{
+    display:flex;
+    justify-content:space-between;
+    
+    }
+     .buttons{
+    display:flex;
+    justify-content:center;
+    padding:50px;
+    }
+    h1{
+        text-align:center;
+        border:solid blue;
+        }
+    body{
+        background-color:lightpink;
+        }
